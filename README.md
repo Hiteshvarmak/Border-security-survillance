@@ -122,7 +122,7 @@ pip install -r requirements.txt
 ## 📁 Project Structure
 
 ```
-Border-Surveillance-MobileNet-ConvLSTM/
+MobileNet–ConvLSTM Based Low-Power Spatio-Temporal Surveillance for Border Security/
 │
 ├── dataset/
 ├── demo/
