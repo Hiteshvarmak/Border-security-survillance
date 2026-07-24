@@ -1,10 +1,10 @@
-# 🛡️ MobileNet–ConvLSTM Based Low-Power Spatio-Temporal Surveillance for Border Security
+# MobileNet–ConvLSTM Based Low-Power Spatio-Temporal Surveillance for Border Security
 
 > An AI-powered border surveillance system that combines **MobileNet** and **ConvLSTM** to detect infiltration activities by learning both spatial and temporal features from surveillance videos. Designed for deployment on low-power edge devices, the system enables real-time monitoring and alert generation.
 
 ---
 
-## 📖 Overview
+## Overview
 
 Traditional border surveillance systems primarily rely on spatial information extracted from individual video frames, making them less effective in recognizing motion-based infiltration activities. This project addresses that limitation by integrating **MobileNet** for spatial feature extraction with **ConvLSTM** for temporal sequence learning.
 
@@ -12,7 +12,7 @@ The trained model processes continuous surveillance video streams, identifies su
 
 ---
 
-## ✨ Features
+## Features
 
 - 🎥 Real-time surveillance video processing
 - 🧠 MobileNet-based spatial feature extraction
@@ -25,7 +25,7 @@ The trained model processes continuous surveillance video streams, identifies su
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
                  Surveillance Camera
@@ -97,7 +97,7 @@ Dataset Links:
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 Clone the repository
 
