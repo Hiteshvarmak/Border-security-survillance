@@ -94,31 +94,8 @@ Dataset Links:
 
 - https://www.crcv.ucf.edu/projects/real-world/
 - https://github.com/VisDrone/VisDrone-Dataset
-
+  
 ---
-
-## Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/Border-Surveillance-MobileNet-ConvLSTM.git
-```
-
-Navigate to the project
-
-```bash
-cd Border-Surveillance-MobileNet-ConvLSTM
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## 📁 Project Structure
 
 ```
