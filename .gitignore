@@ -1,1 +1,85 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
 
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Model Files
+*.h5
+*.keras
+*.ckpt
+*.pb
+saved_model/
+
+# Weights
+weights/
+checkpoints/
+models/
+
+# Dataset
+dataset/
+datasets/
+data/
+
+# Output Files
+outputs/
+predictions/
+results/
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.bmp
+
+# Videos
+*.mp4
+*.avi
+*.mov
+
+# CSV Files
+*.csv
+
+# Environment Variables
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Temporary Files
+*.tmp
+*.cache
+
+# Python Cache
+.pytest_cache/
+.mypy_cache/
+
+# TensorBoard
+logs/
+
+# Coverage
+.coverage
+htmlcov/
