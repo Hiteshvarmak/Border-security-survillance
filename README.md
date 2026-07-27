@@ -102,11 +102,8 @@ Dataset Links:
 MobileNet–ConvLSTM Based Low-Power Spatio-Temporal Surveillance for Border Security/
 │
 ├── dataset/
-├── demo/
 ├── docs/
 ├── images/
-├── models/
-├── notebooks/
 ├── outputs/
 ├── src/
 │   ├── dataset.py
